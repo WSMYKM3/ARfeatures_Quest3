@@ -1,4 +1,5 @@
 This repo acts like a feature gallery in unity6
+This repo is totally made by WSM from stratch
 Using Meta Quest3, but can migrate features for your devices as well
 
 Package:Meta all-in-one
