@@ -11,3 +11,14 @@ Current XR plugin: Oculus for andriod and PC
 
 ##Features Updated:
 24.02.25: AR camera, hand gesture recognition 
+
+
+
+
+
+##Prefabs to use:
+SwipeForwardGesture for both hands
+SwipeBackwardGesture for both hands
+
+##Debugging tools:
+1.TextCube for color change
