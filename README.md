@@ -11,7 +11,7 @@ Current XR plugin: Oculus for andriod and PC
 !!!!Please change your company name and package name in :"Edit-Project setting-Player", thanks you!
 
 ##Features Updated Diary:
-24.02.25: AR camera, hand gesture recognition;
+24.02.25: AR camera, hand gesture recognition
 25.02.25:Hand Pose Detection 01100 updated, but wrapper has not worked;
 
 
