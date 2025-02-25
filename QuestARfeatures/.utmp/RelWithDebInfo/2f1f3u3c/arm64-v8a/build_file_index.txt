@@ -1,0 +1,2 @@
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

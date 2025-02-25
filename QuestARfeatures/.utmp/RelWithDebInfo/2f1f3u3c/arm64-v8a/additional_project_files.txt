@@ -1,0 +1,17 @@
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\GithubRepo\ARfeatures_Quest3\QuestARfeatures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h
